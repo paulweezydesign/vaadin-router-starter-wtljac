@@ -1,0 +1,9 @@
+{
+  "name": "vaadin-router-starter",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@vaadin/router": "0.2.1",
+    "@webcomponents/webcomponentsjs": "2.0.2"
+  }
+}
